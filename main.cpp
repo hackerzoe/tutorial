@@ -6,6 +6,7 @@ using namespace std;
 #define ppll pair<pll, pll>
 #define x first
 #define y second
+#define z third
 
 ll num[200200] = {};
 pair<pll, pll> tree[800800] = {};
